@@ -12,8 +12,8 @@
   gap: 10px;
 
   /* Design */
-  background-color: lightskyblue;
-  border: 2px solid black;
+  background: rgba(255, 255, 255, 0.25);
+  border: 3px solid white;
   border-radius: 15px;
   box-shadow: 0 0 20px black;
 }
@@ -29,8 +29,8 @@
   line-height: 100px;
 
   /* Design */
-  background-color: aliceblue;
-  border: 2px solid black;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 2px solid white;
   border-radius: 10px;
 }
 
@@ -56,16 +56,27 @@
   text-align: center;
 
   /* Design*/
-  border: 2px solid black;
-  border-radius: 10px;
+  border: 2px solid white;
+  border-radius: 15px;
   font-size: 30px;
+  background-color: white;
 }
 .calculator-number-button {
-  background-color: aqua;
+  background-color: lightskyblue;
 }
 
 .calculator-equal-button {
   background-color: lightgreen;
+}
+
+.calculator-operation-button {
+  background-color: lightsalmon;
+}
+
+.calculator-clear-button {
+  background-color: lightcoral;
+}
+.span-two {
   grid-row: 5;
   grid-column: 3 / 5;
 }
