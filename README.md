@@ -10,7 +10,7 @@ https://patrickbethmann.github.io/calculator/
 
 ## Preview
 
-![](/screenshots/thumbnail.png)
+![](/screenshots/thumbnail.PNG)
 
 **Patrick Bethmann**
 
