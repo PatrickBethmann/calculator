@@ -2,7 +2,7 @@
 
 # Description
 
-Just an ugly calculator to get used to working with react :)
+Just a simple calculator to get used to working with react :)
 
 View the current build at:
 
