@@ -2,7 +2,7 @@
 
 # Description
 
-Just a simple calculator to get used to working with react :)
+Just a simple calculator to learn react :)
 
 View the current build at:
 
